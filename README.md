@@ -1,5 +1,5 @@
 # HP-Elitedesk-800G2-SFF-HACKINTOSH
-This is Hackintosh EFI folder for HP Elitedesk 800 G2 SFF With Opencore 0.8.8 running <b>Monterey 12.6.3</b>
+This is Hackintosh EFI folder for HP Elitedesk 800 G2 SFF With Opencore 0.8.8 running <b>Monterey 12.6.3</b><br>
 ![Screen Shot 2023-05-01 at 16 27 49](https://user-images.githubusercontent.com/2989977/235435435-436faa16-a990-42f8-bb9c-4f30f2e69b4f.png)
 
 
@@ -15,16 +15,17 @@ This is Hackintosh EFI folder for HP Elitedesk 800 G2 SFF With Opencore 0.8.8 ru
 - QE/CI HD Graphic<br>
 - USB3 Ports<br>
 - Integrated NIC + TP Link WN725N (USB Dongle)<br>
+--> Driver: https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
 - 2 x DP Ports --> to HDMI & to VGA converter<br>
 - Internal speaker<br>
 - iCloud<br>
 - Shutdown, restart<br>
 
-# didn't work yet:<br>
+# Didn't work yet:<br>
 - Sleep<br>
 - VGA port<br>
 - Front audio<br>
 
 Referenced from:<br>
-https://github.com/randyzhong/HP-EliteDesk-800-G2-DM-Hackintosh<br>
-https://github.com/ecklf/OpenCore-EliteDesk-800-G2SFF<br>
+- https://github.com/randyzhong/HP-EliteDesk-800-G2-DM-Hackintosh<br>
+- https://github.com/ecklf/OpenCore-EliteDesk-800-G2SFF<br>
