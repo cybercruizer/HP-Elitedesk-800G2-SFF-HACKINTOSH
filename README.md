@@ -1,5 +1,6 @@
 # HP-Elitedesk-800G2-SFF-HACKINTOSH
 This is Hackintosh EFI folder for HP Elitedesk 800 G2 SFF With Opencore 0.8.8 running <b>Monterey 12.6.3</b><br>
+# Screenshoot:<br>
 ![Screen Shot 2023-05-01 at 16 27 49](https://user-images.githubusercontent.com/2989977/235435435-436faa16-a990-42f8-bb9c-4f30f2e69b4f.png)
 
 
